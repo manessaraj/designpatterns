@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.interpreter;
+package interpreter;
 
 public class NotExpression implements PermissionExpression {
 	

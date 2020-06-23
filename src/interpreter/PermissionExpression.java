@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.interpreter;
+package interpreter;
 
 //Abstract expression
 public interface PermissionExpression {

@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.interpreter;
+package interpreter;
 
 //Non terminal expression
 public class OrExpression implements PermissionExpression {

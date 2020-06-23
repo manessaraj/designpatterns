@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.interpreter;
+package interpreter;
 
 import java.util.ArrayList;
 import java.util.List;
