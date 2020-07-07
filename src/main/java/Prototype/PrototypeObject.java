@@ -1,5 +1,4 @@
 package Prototype;
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 
 public abstract class PrototypeObject implements Cloneable {
